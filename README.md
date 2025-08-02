@@ -11,7 +11,7 @@ I'm a detail-oriented **Data Analyst** with a background in a **Bachelor’s in 
 📚 Applying statistical methods and data modeling techniques  
 🗣️ Effectively communicating insights to both technical and non-technical audiences  
 
-I enjoy turning messy data into meaningful stories and am passionate about making information accessible and impactful.
+I’m driven by the challenge of extracting value from messy data and delivering insights that matter.
 
 ![](https://komarev.com/ghpvc/?username=srinibas-masanta&color=d6b4fc)
 
