@@ -15,6 +15,8 @@ I enjoy turning messy data into meaningful stories and am passionate about makin
 
 ![](https://komarev.com/ghpvc/?username=srinibas-masanta&color=d6b4fc)
 
+[![Srinibas's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinibas-masanta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -53,5 +55,3 @@ I enjoy turning messy data into meaningful stories and am passionate about makin
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
-
-[![Srinibas's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinibas-masanta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
