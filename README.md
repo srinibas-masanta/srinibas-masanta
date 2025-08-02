@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/f467c587-50ab-4d6b-b858-2c6823581582" width="350" alt="Data Nerd" />
 
-I'm a detail-oriented **Data Analyst** with a background in a **Bachelor’s in Mathematics & Computing** and a **Master’s in Data Science**.
+I'm a detail-oriented **Data Analyst** with a background in a **Bachelor’s in Mathematics & Computing** and a **Master’s in Data Science**. I specialize in:
 
 🧹 Cleaning, transforming, and organizing raw data  
 📊 Analyzing and visualizing data using **Python**, **SQL**, **Power BI**, and **Tableau**  
